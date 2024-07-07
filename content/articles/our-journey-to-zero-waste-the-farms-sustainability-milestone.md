@@ -1,18 +1,18 @@
 ---
-title: "Our Journey to Zero Waste: The Farm's Sustainability Milestone"
-description: Detailing the farm's path towards zero waste, including recycling initiatives, packaging changes, and the reduction of plastic use.
+title: "Melhores praias do Sudeste Asiático: Das costas imaculadas das Filipinas"
+description: Bem-vindos às Filipinas, lar de algumas das praias mais deslumbrantes e intocadas do Sudeste Asiático.
 image:
-  src: https://images.unsplash.com/photo-1472653525502-fc569e405a74?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  src: https://images.unsplash.com/photo-1519101739220-83f6a14852ca?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
   alt: Image of a bag of carrots.
 categories:
 - environmental-impacts
 - sustainable-practices
 - behind-the-scenes
 authors:
-  - name: Estéban Soubiran
+  - name: Song Tran
     avatar: https://esteban-soubiran.site/esteban.webp
     social: https://x.com/soubiran_
-publishedAt: 2024-04-09
+publishedAt: 2024-06-09
 ---
 
 Achieving zero waste is a significant milestone for any farm, and in this article, we detail the steps we've taken towards this ambitious goal. From innovative recycling programs to the adoption of biodegradable packaging, we lay out the path we've forged to minimize our environmental impact and how these efforts have resonated with our community and customers.

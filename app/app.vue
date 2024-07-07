@@ -4,87 +4,75 @@ const { data: files } = useLazyFetch('/api/search.json', { default: () => [], se
 
 const links = [
   {
-    label: 'Seasonal Guides',
-    to: '/categories/seasonal-guides',
+    label: 'Vietnã',
+    to: '/categories/vietnam',
   },
   {
-    label: 'Environmental Impacts',
+    label: 'Indonésia',
     to: '/categories/environmental-impacts',
   },
   {
-    label: 'Sustainable Practices',
+    label: 'Tailândia',
     to: '/categories/sustainable-practices',
   },
   {
-    label: 'Customer Stories',
+    label: 'Malásia',
     to: '/categories/customer-stories',
   },
   {
-    label: 'Behind the Scenes',
+    label: 'Others',
     to: '/categories/behind-the-scenes',
   },
 ]
 
 const footerLinks = [
   {
-    label: 'Product',
+    label: 'Produtos',
     children: [
       {
-        label: 'Features',
+        label: 'Características',
         to: '#',
       },
       {
-        label: 'Pricing',
+        label: 'Preços',
         to: '#',
       },
       {
-        label: 'Integrations',
+        label: 'Integrações',
         to: '#',
       },
       {
-        label: 'Security',
+        label: 'Segurança',
         to: '#',
       },
     ],
   },
   {
-    label: 'Shop',
+    label: 'Comprar',
     children: [
       {
-        label: 'Plants',
+        label: 'Acessórias',
         to: '#',
       },
       {
-        label: 'Pots',
-        to: '#',
-      },
-      {
-        label: 'Accessories',
-        to: '#',
-      },
-      {
-        label: 'Gifts',
+        label: 'Presentes',
         to: '#',
       },
     ],
   },
   {
-    label: 'Company',
+    label: 'Empresa',
     children: [
       {
-        label: 'About',
+        label: 'Sobre',
         to: '#',
       },
       {
-        label: 'Blog',
+        label: 'Blogue',
         to: '#',
       },
       {
-        label: 'Careers',
-        to: '#',
-      },
-      {
-        label: 'Press',
+        label: 'Carreiras',
         to: '#',
       },
     ],
@@ -100,7 +88,7 @@ const { metaSymbol } = useShortcuts()
     :links="links"
   >
     <template #logo>
-      The Green Chronicle
+      Ways2Asia
     </template>
 
     <template #right>
@@ -129,7 +117,7 @@ const { metaSymbol } = useShortcuts()
     <template #top>
       <div class="grid grid-cols-1 xl:grid-cols-2 gap-12 xl:gap-0">
         <span class="text-xl font-bold">
-          The Green Chronicle
+          Ways2Asia
         </span>
 
         <ol class="xl:place-self-end grid grid-cols-2 md:grid-cols-3 gap-8 xl:gap-20">
@@ -160,14 +148,14 @@ const { metaSymbol } = useShortcuts()
     <template #left>
       <div class="flex flex-col md:flex-row items-center gap-4">
         <span class="text-sm text-stone-500">
-          © 2023 The Green Chronicle. All rights reserved.
+          © 2024 Ways2Asia. All rights reserved.
         </span>
         <div class="flex gap-2 text-xs text-stone-500">
           <ULink to="#">
-            Privacy Policy
+            política de Privacidade
           </ULink>
           <ULink to="#">
-            Terms of Service
+            Termos de serviço
           </ULink>
         </div>
       </div>

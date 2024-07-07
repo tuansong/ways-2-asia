@@ -8,10 +8,10 @@ categories:
 - environmental-impacts
 - sustainable-practices
 authors:
-  - name: Estéban Soubiran
+  - name: Song Tran
     avatar: https://esteban-soubiran.site/esteban.webp
     social: https://x.com/soubiran_
-publishedAt: 2024-02-27
+publishedAt: 2024-05-27
 ---
 
 Pollinators play a vital role in the health of our ecosystems, and our farm's Pollinator Project is our commitment to supporting these crucial species. We detail our efforts in creating pollinator-friendly habitats, from planting native flowering plants to reducing pesticide usage. These initiatives not only bolster the local biodiversity but also enhance crop pollination and yield.

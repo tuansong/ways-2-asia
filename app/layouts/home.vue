@@ -107,7 +107,7 @@ const otherTopArticles = computed(() => topArticles.value.slice(1))
         </div>
       </div>
     </ULandingSection>
-    <ULandingSection title="Latest news">
+    <ULandingSection title="Últimas notícias">
       <div class="bg-stone-300 p-4 xl:-m-12 lg:p-12 rounded-lg grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
         <ArticleCard
           v-for="article in latestArticles"
@@ -123,9 +123,9 @@ const otherTopArticles = computed(() => topArticles.value.slice(1))
       </div>
     </ULandingSection>
     <ULandingSection
-      title="They trust us"
-      description="We are proud to have worked with some of the best companies in the world."
-      :links="[{ 'label': 'Our Customer Stories', 'color': 'gray', 'trailing-icon': 'i-heroicons-arrow-right', 'size': 'lg', 'to': '/categories/customer-stories' }]"
+      title="Eles confiam em nós"
+      description="Temos orgulho de ter trabalhado com algumas das melhores empresas do mundo."
+      :links="[{ 'label': 'Descubra mais', 'color': 'gray', 'trailing-icon': 'i-heroicons-arrow-right', 'size': 'lg', 'to': '/categories/customer-stories' }]"
       align="left"
     >
       <div class="flex flex-col gap-4">
@@ -167,9 +167,9 @@ const otherTopArticles = computed(() => topArticles.value.slice(1))
       </div>
     </ULandingSection>
     <ULandingSection
-      title="Never seen before"
-      description="Discover how we build our products and the technologies we use."
-      :links="[{ 'label': 'Behind the Scenes', 'color': 'gray', 'trailing-icon': 'i-heroicons-arrow-right', 'size': 'lg', 'to': '/categories/behind-the-scenes' }]"
+      title="Nunca visto antes"
+      description="Descubra como construímos nossos produtos e as tecnologias que usamos."
+      :links="[{ 'label': 'Por trás das cenas', 'color': 'gray', 'trailing-icon': 'i-heroicons-arrow-right', 'size': 'lg', 'to': '/categories/behind-the-scenes' }]"
       align="left"
     >
       <ArticleCard

@@ -1,21 +1,23 @@
 ---
-title: "Water Conservation Techniques That Revolutionized Our Farm"
-description: Highlighting innovative methods the farm has implemented to save water and the impact these have had on the local ecosystem.
+title: "Joias incomuns no sudeste da Ásia: destino menos conhecido, mas deslumbrante"
+description: Bem-vindo à Ilha de Komodo, um lugar onde dragões ancestrais vagam livremente em meio a paisagens naturais deslumbrantes.
 image:
-  src: https://images.unsplash.com/photo-1508857650881-64475119d798?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  src: https://images.unsplash.com/photo-1565369729454-0e5cd240b4b9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
   alt: Image of a greenhouse.
 categories:
 - sustainable-practices
 - environmental-impacts
 authors:
-  - name: Estéban Soubiran
+  - name: Song Tran
     avatar: https://esteban-soubiran.site/esteban.webp
     social: https://x.com/soubiran_
-publishedAt: 2024-01-02
+publishedAt: 2024-06-02
 top: true
 ---
 
-Water is the lifeblood of agriculture, and conserving it is one of our foremost priorities. Discover the innovative water-saving techniques we've implemented, from drip irrigation to scheduling irrigation at optimal times to reduce evaporation. These methods have not only conserved precious resources but also spurred an increase in crop yields, demonstrating that sustainability and productivity can go hand in hand.
+Bem-vindo à Ilha de Komodo, um lugar onde dragões ancestrais vagam livremente em meio a paisagens naturais deslumbrantes. Localizada no coração do arquipélago indonésio, a Ilha de Komodo é famosa por seus habitantes únicos - os dragões de Komodo, os maiores lagartos do mundo.
+
+Ao pisar na ilha, você é imediatamente envolvido por uma natureza selvagem que parece uma viagem ao passado. Colinas verdes exuberantes descem até praias intocadas banhadas por águas azul-turquesa, criando um paraíso tanto para aventureiros quanto para amantes da natureza.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 

@@ -1,17 +1,17 @@
 ---
-title: "Our Customers' Table: Stories of Meals Made with Our Produce"
-description: A heartwarming collection of customer testimonials on how the farm's produce has enhanced their family meals and events.
+title: "Explorando Sabores: Uma Jornada Gastronômica pelo Vietnã"
+description: Bem-vindos ao nosso blog de tours gastronômicos, onde vamos explorar os deliciosos sabores do Vietnã! Este país do sudeste asiático é famoso por sua culinária vibrante, que combina ingredientes frescos, técnicas tradicionais e uma rica herança culinária.
 image:
-  src: https://images.unsplash.com/photo-1596199050105-6d5d32222916?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  src: https://images.unsplash.com/photo-1590420882553-4f9150b71f92?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
   alt: Image of a grape of tomatoes.
 categories:
 - customer-stories
-- seasonal-guides
+- vietnam
 authors:
-  - name: Estéban Soubiran
+  - name: Song Tran
     avatar: https://esteban-soubiran.site/esteban.webp
     social: https://x.com/soubiran_
-publishedAt: 2024-02-13
+publishedAt: 2024-05-13
 top: true
 ---
 

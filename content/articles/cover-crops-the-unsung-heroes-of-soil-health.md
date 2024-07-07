@@ -8,10 +8,10 @@ categories:
 - sustainable-practices
 - environmental-impacts
 authors:
-  - name: Estéban Soubiran
+  - name: Song Tran
     avatar: https://esteban-soubiran.site/esteban.webp
     social: https://x.com/soubiran_
-publishedAt: 2024-03-12
+publishedAt: 2024-04-12
 ---
 
 Cover crops might be the unsung heroes of sustainable agriculture, but their benefits cannot be overstated. This article explores how integrating cover crops into our crop rotation has improved soil structure, suppressed weeds, and increased biodiversity. By sharing our experiences, we hope to shed light on these powerful plants and inspire other farmers to adopt similar practices.

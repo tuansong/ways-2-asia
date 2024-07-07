@@ -8,10 +8,10 @@ categories:
 - behind-the-scenes
 - customer-stories
 authors:
-  - name: Estéban Soubiran
+  - name: Song Tran
     avatar: https://esteban-soubiran.site/esteban.webp
     social: https://x.com/soubiran_
-publishedAt: 2024-01-16
+publishedAt: 2024-04-16
 ---
 
 Behind every vegetable there's a story, and at the heart of each story are the farmers. This intimate piece introduces you to the dedicated individuals who tend our crops and care for our livestock. Their passion for the land and commitment to sustainable agriculture is what makes our farm's produce exceptional. Join us as we celebrate the hard work and dedication that brings fresh, healthy food to your table.

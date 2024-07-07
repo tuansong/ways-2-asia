@@ -1,14 +1,14 @@
 ---
-title: "Harvest Time: What's In Season This Fall?"
-description: An enticing look at what fruits and vegetables are at their peak in the fall and how the farm brings them to your table.
+title: "Descobrindo Saigon: A Pulsante Cidade de Ho Chi Minh?"
+description: Bem-vindos ao nosso blog de descobertas, onde vamos explorar a vibrante cidade de Saigon, também conhecida como Ho Chi Minh City! Situada no sul do Vietnã, Saigon é uma metrópole pulsante que combina história fascinante, cultura dinâmica e uma energia contagiante.
 image:
-  src: https://images.unsplash.com/photo-1610832958506-aa56368176cf?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  src: https://images.unsplash.com/photo-1583417319070-4a69db38a482?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
   alt: Image of fruits.
 categories:
-- seasonal-guides
+- vietnam
 - customer-stories
 authors:
-  - name: Estéban Soubiran
+  - name: Song Tran
     avatar: https://esteban-soubiran.site/esteban.webp
     social: https://x.com/soubiran_
 publishedAt: 2023-12-19

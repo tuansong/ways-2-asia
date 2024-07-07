@@ -8,10 +8,10 @@ categories:
 - behind-the-scenes
 - sustainable-practices
 authors:
-  - name: Estéban Soubiran
+  - name: Song Tran
     avatar: https://esteban-soubiran.site/esteban.webp
     social: https://x.com/soubiran_
-publishedAt: 2024-03-26
+publishedAt: 2024-05-26
 ---
 
 The shift to organic farming is more than just a change in practices; it's a philosophical shift towards a more harmonious relationship with nature. In this chronicle, we narrate the challenges and triumphs of our journey to eliminate synthetic chemicals from our farming practices, focusing on the long-term benefits for both our soil and the consumers who trust in the purity of our produce.

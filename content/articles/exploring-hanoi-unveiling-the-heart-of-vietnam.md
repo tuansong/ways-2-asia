@@ -1,22 +1,20 @@
 ---
-title: 'A Year in Review: How Seasonal Changes Affect Our Farming Techniques'
-description: An overview of the adaptations and changes made on the farm throughout the year to align with seasonal variations.
+title: 'Descobrindo Hanói: Revelando o Coração do Vietnã'
+description: Bem-vindos ao nosso blog de descobertas, onde vamos explorar a encantadora cidade de Hanói! Situada no norte do Vietnã, Hanói chama a atenção com sua rica história, cultura vibrante e ruas movimentadas.
 image:
-  src: https://images.unsplash.com/photo-1574514366389-3c4fef242ca9?q=80&w=993&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  src: https://images.unsplash.com/photo-1588776873786-a51f317c3dbf?q=80&w=993&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
   alt: Image of a road in a forest with green and orange trees on either side.
 categories:
-- seasonal-guides
+- vietnam
 - behind-the-scenes
 authors:
-  - name: Estéban Soubiran
+  - name: Song Tran
     avatar: https://esteban-soubiran.site/esteban.webp
     social: https://x.com/soubiran_
-publishedAt: 2024-01-30
+publishedAt: 2024-05-30
 ---
 
-Farming is not a static occupation; it requires adaptation and responsiveness to the changing seasons. This article reviews a year on the farm, showcasing how we adjust our techniques to meet the demands of each season. From spring planting to autumn harvesting, we reveal how seasonal shifts guide our decisions and actions on the farm, ensuring sustainability and success throughout the year.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Bem-vindos ao nosso blog de descobertas, onde vamos explorar a encantadora cidade de Hanói! Situada no norte do Vietnã, Hanói chama a atenção com sua rica história, cultura vibrante e ruas movimentadas. Se você é um apreciador da gastronomia, um aficionado por história ou simplesmente um viajante curioso, Hanói promete cativar seus sentidos e deixar memórias duradouras.
 
 ## Consectetur Adipiscing Elit
 

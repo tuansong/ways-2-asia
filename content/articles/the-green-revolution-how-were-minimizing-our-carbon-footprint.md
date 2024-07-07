@@ -8,10 +8,10 @@ categories:
 - environmental-impacts
 - sustainable-practices
 authors:
-  - name: Estéban Soubiran
+  - name: Song Tran
     avatar: https://esteban-soubiran.site/esteban.webp
     social: https://x.com/soubiran_
-publishedAt: 2023-11-21
+publishedAt: 2024-05-21
 top: true
 ---
 
